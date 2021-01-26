@@ -1,0 +1,500 @@
+   71  npm install -g typescript
+   72  ts-node Animal.ts
+   73  ts-node Animal.ts
+   74  npm install
+   75  ts-node Animal.ts
+   76  npm init
+   77  ts-node Animal.ts
+   78  ts-node Animal.ts
+   79  ts-node Main.ts
+   80  ts-node Main.ts
+   81  ts-node Main.ts
+   82  ts-node Main.ts
+   83  ts-node Main.ts
+   84  ts-node Main.ts
+   85  ts-node Main.ts
+   86  ts-node Main.ts
+   87  ts-node Main.ts
+   88  ts-node Main.ts
+   89  ts-node Main.ts
+   90  ts-node Home.ts
+   91  git clone https://github.com/Umuzi-org/Thabile-Mngoma-221-angular-tutorial-typescript-angular.git
+   92  ls
+   93  cd Thabile-Mngoma-221-angular-tutorial-typescript-angular
+   94  ls
+   95  git checkout mybranch
+   96  ng generate component hero-detail
+   97  ng generate service hero
+   98  ng generate component messages
+   99  ng generate service message
+  100  ng generate module app-routing --flat --module=app
+  101  ng serve
+  102  ng serve
+  103  ng generate component  dashboard
+  104  ng serve
+  105  ng serve
+  106  ng serve
+  107  ng serve
+  108  npm install angular-in-memory-web-api --save
+  109  ng generate service InMemoryData
+  110  ng generate component hero-search
+  111  ng serve
+  112  ng generate component crisis-list
+  113  ng generate component hero-list
+  114  ng generate component page-not-found
+  115  ng generate module my-module --routing
+  116  ng generate module app-routing --module app --flat
+  117  touch .gitignore
+  118  echo "node_modules/" >> .gitignore
+  119  echo "e2e/" >> .gitignore
+  120  git rm -r --cached node_modules
+  121  ng generate module heroes/heroes --module app --flat --routing
+  122  ng generate component crisis-center/crisis-center
+  123  ng generate component crisis-center/crisis-center-home
+  124  ng generate component compose-message
+  125  ng generate module admin --routing
+  126  ng generate component admin/admin-dashboard
+  127  ng generate component admin/admin
+  128  ng generate component admin/manage-crises
+  129  ng generate component admin/manage-heroes
+  130  ng generate guard auth/auth
+  131  ng generate service auth/auth
+  132  ng generate component auth/login
+  133  ng generate service dialog
+  134  ng generate guard can-deactivate
+  135  ng generate service crisis-center/crisis-detail-resolver
+  136  ng generate service selective-preloading-strategy
+  137  ng generate module auth --routing
+  138  ng generate module heroes/heroes --module app --flat --routing
+  139  ng serve
+  140  npm start
+  141  ls
+  142  cd Thabile-Mngoma-221-angular-tutorial-typescript-angular
+  143  ls
+  144  git status
+  145  git add .
+  146  git commit -m "update"
+  147  git push -u mybranch
+  148  git log
+  149  git checkout -b mybranch
+  150  git push -u mybranch
+  151  git status
+  152  git status
+  153  git add .
+  154  git commit -m "first commit"
+  155  git push -u mybranch
+  156  git log
+  157  cd
+  158  cd Desktop
+  159  ng new angular-router-sample
+  160  cd
+  161  cd Desktop
+  162  ls
+  163  cd TourOfHeroesApp
+  164  ls
+  165  git log
+  166  git branch
+  167  git status
+  168  git init
+  169  ls
+  170  git status
+  171  git status
+  172  ls
+  173  git log
+  174  git checkout -b "mybranch"
+  175  git status
+  176  git log 
+  177  git status
+  178  echo "e2e/" >> .gitignore
+  179  git rm -r --cached e2e/
+  180  git rm -r --cached e2e
+  181  git status
+  182  git status
+  183  git add .
+  184  git commit -m "AngularApp"
+  185  git push -u mybranch
+  186  git push -u origin  mybranch
+  187  git log
+  188  git status
+  189  cd
+  190  ls
+  191  cd Thabile-Mngoma-221-angular-tutorial-typescript-angular
+  192  git staus
+  193  git status
+  194  git log
+  195  git status
+  196  ls
+  197  git status
+  198  cd mybranch
+  199  ls
+  200  git status
+  201  git log
+  202  git push -u origin mybranch
+  203  ls
+  204  cd Desktop
+  205  cd
+  206  cd Desktop
+  207  git clone https://github.com/Umuzi-org/Thabile-Mngoma-221-angular-tutorial-typescript-angular.git
+  208  ls
+  209  cd Thabile-Mngoma-221-angular-tutorial-typescript-angular
+  210  git init
+  211  ls
+  212  git init
+  213  git checkout -b mybranch
+  214  git status
+  215  cd TourOfHeroesApp/
+  216  ls
+  217  echo "node_modules/" >>.gitignore
+  218  ls
+  219  git rm -r --cached node_modules
+  220  ls
+  221  git rm -r --cached node_modules/
+  222  git rm -r --cached node_modules/
+  223  ls
+  224  touch .gitignore
+  225  echo "node_modules/" >>.gitignore
+  226  echo "e2e/" >> .gitignore
+  227  ls
+  228  ls
+  229  git rm -r --cached node_modules/
+  230  git status
+  231  git status
+  232  cd Thabile-Mngoma-221-angular-tutorial-typescript-angular
+  233  cd
+  234  cd Thabile-Mngoma-221-angular-tutorial-typescript-angular
+  235  cd Thabile-Mngoma-221-angular-tutorial-typescript-angular
+  236  ls
+  237  cd Desktop
+  238  cd Thabile-Mngoma-221-angular-tutorial-typescript-angular
+  239  ls
+  240  git status
+  241  git status
+  242  git add .
+  243  git status
+  244  git add .
+  245  git status
+  246  git add .
+  247  git status
+  248  git add TourOfHeroesApp
+  249  git status
+  250  git add <TourOfHeroesApp>
+  251  git add <TourOfHeroesApp>...
+  252  git add .
+  253  git commit -m "AngularApp"
+  254  git push -u origin mybranch
+  255  ls
+  256  git status
+  257  git add .
+  258  git commit -m "angular routing"
+  259  git push -u origin mybranch
+  260  git status
+  261  git add .
+  262  git commit -m "update"
+  263  git push -u origin mybranch
+  264  git status
+  265  git add .
+  266  git rm --cached TourOfHeroesApp
+  267  git rm -f TourOfHeroes
+  268  git rm -f TourOfHeroesApp
+  269  git status
+  270  git add .
+  271  git status
+  272  git commit -m "update"
+  273  git push -u origin mybranch
+  274  git clone https://github.com/Umuzi-org/Thabile-Mngoma-224-animals-part-1-oop-basics-typescript.git
+  275  ls
+  276  cd Thabile-Mngoma-224-animals-part-1-oop-basics-typescript
+  277  ls
+  278  cd src
+  279  ls
+  280  cd Animal.ts
+  281  open Animal.ts
+  282  open Home.ts
+  283  open Main.ts
+  284  ts-node Animal.ts
+  285  git status
+  286  git add .
+  287  git commit -m "update"
+  288  git push "IncompleteUpdate"
+  289  git push "incompleteUpdate"
+  290  git push -u origin "incompleteUpdate"
+  291  git push
+  292  git push -u origin "incompleteUpdate"
+  293  ts-node Animal.ts
+  294  git push -u origin "incompleteUpdate"
+  295  git status
+  296  git checkout incompleteUpdate
+  297  git status
+  298  git push -u origin incompleteUpdate
+  299  git status
+  300  ts-node Animal.ts
+  301  git checkout incompleteUpdate
+  302  ts-node Home.ts
+  303  git status
+  304  git checkout incompleteUpdate
+  305  git add .
+  306  git comiit -m "update"
+  307  git commit -m "update"
+  308  git oush -u origin incompleteUpdate
+  309  git push -u origin incompleteUpdate
+  310  ls
+  311  cd Thabile-Mngoma-224-animals-part-1-oop-basics-typescript
+  312  ls
+  313  git checkout incimpleteUpdate
+  314  git checkout incompleteUpdate
+  315  git status
+  316  ls
+  317  git status
+  318  git log
+  319  git status
+  320  git add .
+  321  git commit -m "update"
+  322  git push -u origin incompleteUpdate
+  323  cd
+  324  mkdr git-basic-exercises
+  325  mkdir git-basic-exercises
+  326  cd git-basic-exercises
+  327  ls -a
+  328  git init
+  329  ls -a
+  330  git status
+  331  touch README.md
+  332  ls -a
+  333  git status
+  334  git log
+  335  git add .
+  336  git status
+  337  git commit -m "initial commit"
+  338  git log
+  339  nano README.md
+  340  cat README.md
+  341  git status
+  342  git add .
+  343  git commit -m "second commit"
+  344  nano README.md
+  345  cat README.md
+  346  git add .
+  347  git commit -m "third commit"
+  348  git log
+  349  git checkout
+  350  git checkout 3aa74d22fdf144676ee5e407ef91678e8bab9119
+  351  cat README.md
+  352  git checkout main
+  353  git checkout master
+  354  cat README.md
+  355  git branch
+  356  git checkout -b milkshake-flavours
+  357  git branch
+  358  nano milkshakes.md
+  359  git status
+  360  git add .
+  361  git commit -m "added initial flavours"
+  362  git log
+  363  git checkout master
+  364  ls a
+  365  ls -a
+  366  git checkout -b history
+  367  git log
+  368  git branch
+  369  history >history.txt
+  370  git status
+  371  git add .
+  372  git commit -m "added history"
+  373  git log
+  374  nano README.md
+  375  nano README.md
+  376  y
+  377  git status
+  378  git add .
+  379  git commit -m "random readme changes"
+  380  git checkout history
+  381  cat README.md
+  382  rm README.md
+  383  echo "booya" > README.md
+  384  git add .
+  385  git commit -m "rewrote readme"
+  386  git checkout master
+  387  ls
+  388  git log
+  389  git checkout milkshake-flavours
+  390  ls
+  391  git log
+  392  git checkout history
+  393  ls
+  394  git log
+  395  git checkout master
+  396  git merge milkshake-flavours
+  397  ls
+  398  git log
+  399  git checkout master
+  400  git merge history
+  401  ls
+  402  cd git-basic-exercises
+  403  ls
+  404  git checkout history
+  405  git log
+  406  git checkout milkshake-flavours
+  407  ls
+  408  git log
+  409  git checkout history
+  410  git merge master 
+  411  cd git-basic-exercises
+  412  git log
+  413  git remote add origin https://github.com/thabilemngoma/GIT_BASIC_EXERCISES.git
+  414  git branch -M master
+  415  git push -u origin master
+  416  git status
+  417  git branch -M history
+  418  git push -u origin history
+  419  git branch -M milkshake-flavours
+  420  git push -u origin milkshake-flavours
+  421  cd
+  422  git clone https://github.com/thabilemngoma/GIT_BASIC_EXERCISES.git
+  423  ls
+  424  cd GIT_BASIC_EXERCISES
+  425  git branch
+  426  git log
+  427  git branch -a
+  428  cd
+  429  ls
+  430  cd GIT_BASIC_EXERCISES
+  431  git checkout -b project/git-basic-exercises
+  432  git remote -v
+  433  git status
+  434  git log
+  435  cd
+  436  mkdir this-will-be-another-repo
+  437  cd this-will-be-another-repo
+  438  git init
+  439  touch README.md
+  440  git add .
+  441  git commit -m "empty md"
+  442  cd GIT_BASIC_EXERCISES
+  443  cd
+  444  cd GIT_BASIC_EXERCISES
+  445  ls
+  446  git log
+  447  touch ignore-me.db
+  448  git status
+  449  nano .gitignore
+  450  git status
+  451  mkdir large-directory-that-should-be-local-only
+  452  cdr large-directory-that-should-be-local-only
+  453  cd large-directory-that-should-be-local-only
+  454  cd
+  455  cd GIT_BASIC_EXERCISES
+  456  git status
+  457  nano .gitignore
+  458  git status
+  459  git add .gitignore
+  460  git commit -m "added .gitignore"
+  461  git push
+  462  git push -u origin master
+  463  git push -u origin master
+  464  git status
+  465  git log
+  466  cd
+  467  ls
+  468  cd TourOfHeroesApp
+  469  rm -rf .git
+  470  ls
+  471  cd
+  472  cd Desktop
+  473  ls
+  474  cd Thabile-Mngoma-221-angular-tutorial-typescript-angular
+  475  ls
+  476  git status
+  477  git add .
+  478  git commit -m "update"
+  479  git push -u origin mybranch
+  480  git status
+  481  git checkout mybranch
+  482  git add .
+  483  git status
+  484  git add .
+  485  git commit -m "update"
+  486  git add TourOfHeroesApp
+  487  git status
+  488  git add <TourOfHeroesApp>
+  489  ls
+  490  git status
+  491  git add .
+  492  git log
+  493  git status
+  494  git add .
+  495  git status
+  496  rm -rf .git
+  497  ls
+  498  git status
+  499   git status
+  500  git checkout mybranch
+  501  ls
+  502  cd GIT_BASIC_EXERCISES
+  503  ls
+  504  git status
+  505  git log
+  506  git checkout master
+  507  git status
+  508  git add .
+  509  git commit -m "added .gitignore"
+  510  git push -u origin master
+  511  git status
+  512  cd
+  513  ls
+  514  rm -rf git-basic-exercises/
+  515  rm -rf GIT_BASIC_EXERCISES/
+  516  ls
+  517  mkdir git-basic-exercises
+  518  cd git-basic-exercises/
+  519  ls -a
+  520  git init
+  521  ls -a
+  522  git status
+  523  touch README.md
+  524  ls -a
+  525  git status
+  526  git log
+  527  git add .
+  528  git status
+  529  git commit -m "initial commit"
+  530  git log
+  531  nano README.md
+  532  cat README.md
+  533  git status
+  534  git add .
+  535  git commit -m "second commit"
+  536  nano README.md
+  537  git status
+  538  git add .
+  539  git commit -m "third commit"
+  540  git log
+  541  git checkout 442209553e35cf1bbcebbd47297c56903d882c36
+  542  cat README.md
+  543  git checkout main
+  544  git checkout master
+  545  cat README.md
+  546  git branch
+  547  git checkout -b milkshake-flavours
+  548  git branch
+  549  nano milkshakes.md
+  550  git status
+  551  git add .
+  552  git commit -m "added initial flavours"
+  553  git log
+  554  git branch main
+  555  git checkout main
+  556  ls
+  557  git checkout milkshake-flavours
+  558  ls
+  559  git checkout master
+  560  ls
+  561  git branch
+  562  ls
+  563  git branch -d main
+  564  git branch -D main
+  565  git branch -m master main
+  566  git branch
+  567  git checkout -b history
+  568  git log
+  569  git branch
+  570  history > history.txt
