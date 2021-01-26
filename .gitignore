@@ -1,0 +1,5 @@
+ignore-me.db
+large-directory-that-should-be-locally-only
+
+
+large-directory-that-should-be-local-only/
